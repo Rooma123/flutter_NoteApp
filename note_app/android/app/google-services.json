@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397728093723",
+    "project_id": "note-app-b4716",
+    "storage_bucket": "note-app-b4716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397728093723:android:6c79985ff9de5b83b04abe",
+        "android_client_info": {
+          "package_name": "com.reem.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mAHd2RfBT6CfWsQ4fFgrhZ0wyZoB6HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
